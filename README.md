@@ -1,0 +1,2 @@
+# Big Data: Twitter Scraping Sentiment Analysis and Prediction Model using PySpark
+Scraped Tweets Related to Elon Musk using Tweepy Library on AWS EC2 instance. Created ETL pipeline using AWS Kinesis and stored the data to AWS S3 bucket storage. Performed Twitter Sentiment Analysis using AWS EMR cluster computing on Databricks platform. Used PySpark and Spark SQL to preprocess text data and implement ML model to predict twitter sentiment. Data Labelling was done using TextBlob polarity analysis.  
